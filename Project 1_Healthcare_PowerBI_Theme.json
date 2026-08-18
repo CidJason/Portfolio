@@ -1,0 +1,30 @@
+{
+  "name": "Healthcare Portfolio \u2014 Clean Blue",
+  "dataColors": [
+    "#1F4E78",
+    "#5B9BD5",
+    "#70AD47",
+    "#ED7D31",
+    "#A5A5A5",
+    "#4472C4",
+    "#FFC000",
+    "#8064A2"
+  ],
+  "background": "#F7F9FC",
+  "foreground": "#1F2937",
+  "tableAccent": "#1F4E78",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": "Aptos",
+        "titleText": [
+          {
+            "fontSize": 14,
+            "fontFamily": "Aptos",
+            "fontBold": true
+          }
+        ]
+      }
+    }
+  }
+}
